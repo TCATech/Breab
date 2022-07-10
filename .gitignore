@@ -1,0 +1,5 @@
+.prettierignore
+.env
+node_modules
+databases/*/*.sqlite*
+package-lock.json
